@@ -1,0 +1,85 @@
+
+span{
+    color: rgb(180, 58, 68);
+}
+
+   h3{
+    color: rgb(255, 47, 106);
+   }
+a ,li{
+    color: red;
+}
+
+.blue{
+color: brown;
+}
+
+.hello2{
+    background-color: blueviolet;
+}
+
+
+#nihal {
+    color: pink;
+    background-color: yellow;
+}
+
+h1{
+    color: cadetblue;
+}
+
+.rakhi{
+    color: blanchedalmond;
+}
+
+#bhavya {
+    color: darkmagenta;
+}
+
+div{
+    color: blue;
+}
+
+div>p{
+    color: blue;
+}
+
+
+ a ~ p {
+color: blue ;
+}
+
+#nihal:hover {
+    background-color: rgb(180, 58, 68);
+}
+
+li:hover{
+    color: rgb(60, 0, 255);
+}
+
+ /*li :last-child  {
+    color: blueviolet;
+} */
+
+H1::after {
+    content: " JII";
+}
+   
+
+H1::before{
+    Content : " hii"
+}
+
+h1::first-letter{
+    color: rgb(83, 42, 165);
+}
+h1::content{
+    color: rgb(98, 126, 34);
+
+}
+
+h1::selection{
+    color: black;
+}
+
+
